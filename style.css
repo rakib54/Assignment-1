@@ -1,0 +1,172 @@
+body{
+    margin: 0;
+    font-family: 'Mukta', sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+h2{
+    text-align: center;
+    margin: 0 auto;  
+}
+
+p{
+    font-size: 18px;
+    color: dimgray;
+}
+
+.navbar-menu a{
+    color: rgb(46, 44, 44);
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+    padding-left: 40px ;
+}
+.navbar-menu{
+    padding: 20px 20px;
+    text-align: right;
+    float: right;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+section{
+    height: 120px;
+          
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgba(15, 61, 146, 0.548), tomato);
+    padding: 10px 40px;
+    color: white;
+    border-radius: 10px;
+    font-weight: 600;
+}
+a:hover{
+    color: slateblue;
+}
+
+.blue-highlight{
+    color: rgb(85, 9, 146);
+}
+
+.tomato-highlight{
+    color: tomato;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+
+div.project{
+    text-align: center;
+    
+}
+.width-work{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.width-work img{
+    width: 100%;
+}
+.box-design{
+    box-shadow: 10px 10px 40px grey;
+}
+.bottom-work h1{
+    
+    margin-left:  auto;
+    color: white;
+    letter-spacing: 10px;
+    line-height: 50px;
+        
+}
+.box-work{
+    margin: 10px 10px;
+    padding: 20px 20px;
+}
+.chat-box{
+    
+    align-items: center;
+    background-image: linear-gradient(45deg,tomato, rgba(10, 73, 190, 0.548));
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    margin: 200px auto;
+    margin-top: 100px;
+    width: 900px;
+    height: 200px;
+    color: white;
+   
+ }
+.work{
+    margin: 50px ;
+    
+}
+.work-inquiry{
+    margin-right:300px;
+    padding-left: 40px;
+}
+.bottom-work{
+     text-align: left;
+ }
+
+.box-element{
+    text-align:right;
+    padding-right:10px;
+}
+footer p{
+    text-align: center;
+}
+h4{
+    
+    font-weight: bold;
+    font-size: 20px;
+    color: dimgray;
+}
+.footer-alignment{
+    align-items: center;
+    background-image: white;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    margin: 200px auto;
+    width: 500px;
+    height: 200px;
+    color: white;
+                
+}
+.bold{
+    font-weight: bold;
+    color: rgba(16, 16, 212, 0.404);
+    margin: 0 auto;
+}
+footer img{
+    width: 50px; 
+    margin-right: 15px;
+
+}
+.full-width{
+    text-align: center;
+    width: 40%;
+    height: 300px;
+    margin: 400px auto;
+    border-right: 5px solid;
+    border-image:linear-gradient(180deg, green, greenyellow);
+    box-shadow: 10px 10px 40px rgb(173, 134, 44) ;
+    border-image-slice: 1;
+}
+.green-highlight{
+    color: green;
+}
+
+
+
